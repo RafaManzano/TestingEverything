@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "TestingEverything"
 include ':app'
+include ':splash:splash-view'
+include ':splash:splash-domain'
+include ':splash:splash-data'
